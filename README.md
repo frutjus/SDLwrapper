@@ -1,1 +1,1 @@
-# SDLwrapper
+A collection of classes to contain SDL functions and utilities.
